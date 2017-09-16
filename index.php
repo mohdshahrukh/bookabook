@@ -5,7 +5,7 @@ include("functions/functions.php");
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Book A Book</title>
+<title>Book by Book</title>
 <link rel="stylesheet" type="text/css" href="styles/style.css" media="all"/>
 
 <style type="text/css">
